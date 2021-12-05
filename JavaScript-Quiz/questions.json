@@ -1,0 +1,38 @@
+[
+    {
+      "question": "متى تأسس الانترنت؟",
+      "answers": [
+        { "text": "2020", "correct": false },
+        { "text": "1983", "correct": true },
+        { "text": "1900", "correct": false },
+        { "text": "2000", "correct": false }
+      ]
+    },
+    {
+      "question": "كم عدد الكواكب في النظام الشمسي؟",
+      "answers": [
+        { "text": "9", "correct": false },
+        { "text": "8", "correct": true },
+        { "text": "2", "correct": false },
+        { "text": "3", "correct": false }
+      ]
+    },
+    {
+      "question": "ماهي مدة معسكر طويق البرمجي؟",
+      "answers": [
+        { "text": "10", "correct": false },
+        { "text": "3", "correct": true },
+        { "text": "12", "correct": false },
+        { "text": "15", "correct": false }
+      ]
+    },
+    {
+      "question": "ماهي نتيجة 5*5 ؟ ",
+      "answers": [
+        { "text": "25", "correct": true },
+        { "text": "30", "correct": false },
+        { "text": "90", "correct": false },
+        { "text": "100", "correct": false }
+      ]
+    }
+  ]
